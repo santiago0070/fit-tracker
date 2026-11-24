@@ -43,6 +43,7 @@ C| Glúteos, posterior e ombros
 Cada exercício deverá apresentar:
 
 - Nome e imagem ilustrativa.
+- As imagens são carregadas da biblioteca Free Exercise DB (Unlicense/domínio público), por URLs públicas. Algumas variações de aparelho podem usar uma foto de referência do movimento e ficam identificadas na interface.
 - Grupo muscular.
 - Séries e repetições.
 - Tempo de descanso.
