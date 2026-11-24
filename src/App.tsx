@@ -56,7 +56,7 @@ const exerciseImages: Record<string, { id: string; note?: string }> = {
  "Rosca bíceps": { id: "Barbell_Curl", note: "Referência do movimento; a variação pode usar halteres ou barra." },
  "Tríceps pulley": { id: "Triceps_Pushdown" },
  "Prancha": { id: "Plank" },
- "Elevação pélvica máquina": { id: "Barbell_Hip_Thrust", note: "Referência do movimento; a imagem mostra a versão com barra." },
+ "Elevação pélvica máquina": { id: "", note: "A biblioteca não possui uma foto fiel da máquina de elevação pélvica. Não será exibida a versão com barra como se fosse o mesmo equipamento." },
  "Cadeira abdutora": { id: "", note: "A biblioteca não possui uma foto fiel da cadeira abdutora. Não será exibida uma imagem de outro aparelho." },
  "Peck Deck": { id: "Butterfly" },
  "Remada articulada": { id: "Leverage_Iso_Row" },
